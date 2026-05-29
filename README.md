@@ -49,3 +49,6 @@ EEG_Emotion_Project/
 ├── eeg_emotion_model.keras
 ├── requirements.txt
 └── README.md
+##IMPORTANT
+Dataset used for training: EEG Emotion Recognition Dataset
+Training dataset not included due to repository size considerations.
